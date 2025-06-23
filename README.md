@@ -1,1 +1,1 @@
-# micrgrad In Mojo
+# micrograd In Mojo
